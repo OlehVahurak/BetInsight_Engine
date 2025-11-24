@@ -65,16 +65,6 @@ Includes SCD, CDC, and time-series growth accounting.
 - Scalable, cloud-native design  
 - Supports multiple sports (NFL, NBA, NHL, NCAAF)
 
----
-
-# **Roadmap (In Progress)**
-- dbt Gold layer  
-- Batch dashboards  
-- CI/CD + testing framework  
-- Unified Kafka orchestrator  
-- News/sentiment integration  
-
----
 
 
 
