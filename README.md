@@ -1,6 +1,7 @@
-# **Betflow: Real-time Sports Betting Analytics Platform**
+# **PlayStream: Real-time Sports Analytics Platform**
 
-Betflow is an end-to-end **data and analytics engineering platform** built to process and analyze **real-time sports data** at scale. It combines modern streaming and batch technologies to deliver sub-second insights, historical analysis, and production-grade data models.
+PlayStream is an end-to-end **data and analytics engineering platform** built to process and analyze **real-time sports data** at scale.  
+It combines modern streaming and batch technologies to deliver sub-second insights, historical analysis, and production-grade data models.
 
 ---
 
@@ -23,7 +24,7 @@ Its purpose is to demonstrate real-world **Data Engineering** and **Analytics En
 
 # **Architecture Overview**
 
-Betflow consists of two pipelines:
+PlayStream consists of two pipelines:
 
 ### **1. Real-time Pipeline**
 - **Sources:** ESPN, Odds API, OpenWeather  
@@ -57,7 +58,7 @@ Includes SCD, CDC, and time-series growth accounting.
 
 ---
 
-# **Why Betflow Is Unique**
+# **Why PlayStream Is Unique**
 - True real-time streaming with Kafka + Spark  
 - Batch architecture for historical analytics  
 - Advanced multi-domain data modeling  
@@ -72,6 +73,8 @@ Includes SCD, CDC, and time-series growth accounting.
 - CI/CD + testing framework  
 - Unified Kafka orchestrator  
 - News/sentiment integration  
+
+---
 
 
 
