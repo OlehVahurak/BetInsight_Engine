@@ -16,12 +16,6 @@ Betflow is a modern data and analytics engineering platform designed for real-ti
 >    keep running and hitting APIs at high rate, which is very expensive for me as I am 
 >    paying for everything by myself.  
 > 
-> If you are curious to see how dashboards look like, feel free to checkout the below two links for video explanation. 
-> For recruiters, for hiring purposes, please email me that you want to see UI, it takes just 5 minutes to get 
-> the pipeline running, I will share the link with you. 
-> 
-> 1. [Zach Wilson's Capstone Showcase](https://youtu.be/XD2b8V_RfFc?t=1493)  
-> 2. [Data Engineering DC meetup](https://www.youtube.com/watch?v=aaCbpYvjolk&ab_channel=SanchitVijay)
 > 
 
 ### Key Features
